@@ -6,10 +6,7 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("I've been here!")
-        System.out.println("Ivan Kim Javier")
-        
-    
-    
+        System.out.println("I've been here!");
+        System.out.println("I'm Simone Julienne T. Soria.");
     }
 }
